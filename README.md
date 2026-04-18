@@ -8,8 +8,8 @@ I am a Bioengineering undergraduate student at Ege University, deeply interested
 - **Data Science:** Exploratory data analysis, predictive modeling, machine learning applications in healthcare.
 
 ### Tech Stack & Tools
-- **Languages:** Python (Pandas, NumPy, Scikit-Learn, Matplotlib)
-- **Bioinformatics:** Biopython, BLAST, UCSF Chimera/ChimeraX
+- **Languages:** Python 
+- **Bioinformatics:** Biopython, BLAST, 
 - **Engineering Tools:** SuperPro Designer, MATLAB
 
 ### What I'm working on
